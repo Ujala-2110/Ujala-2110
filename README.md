@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujala-2110&label=Profile%20views&color=0e75b6&style=flat" alt="ujala-2110" /> </p>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
 
-- 🔭 I’m currently working on **CodeX-ide**
+- 🔭 I am currently working as a Backend Developer at Digitate
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning  **Java SpringBoot** 
 
-- 💬 Ask me about **React , MERN**
+- 💬 Ask me about **React , MERN , SpringBoot**
 
 - ⚡ Fun fact **I am Funny**
 
